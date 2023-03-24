@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Welcome from Kinsta Static Site Hosting
+          Welcome from Kinsta Static Site Hosting!
         </p>
       </header>
     </div>
