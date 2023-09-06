@@ -17,7 +17,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Fuller test
+          Michael test
         </p>
         <p>List Of Env Vars (including a few default):</p>
         <div>
